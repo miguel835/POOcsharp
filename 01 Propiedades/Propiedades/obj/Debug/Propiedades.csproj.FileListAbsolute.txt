@@ -1,0 +1,14 @@
+E:\Workspace\FundaProgrCsharp\11 Propiedades\Propiedades\bin\Debug\Propiedades.exe.config
+E:\Workspace\FundaProgrCsharp\11 Propiedades\Propiedades\bin\Debug\Propiedades.exe
+E:\Workspace\FundaProgrCsharp\11 Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+E:\Workspace\FundaProgrCsharp\11 Propiedades\Propiedades\obj\Debug\Propiedades.csproj.AssemblyReference.cache
+E:\Workspace\FundaProgrCsharp\11 Propiedades\Propiedades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache
+E:\Workspace\FundaProgrCsharp\11 Propiedades\Propiedades\obj\Debug\Propiedades.exe
+E:\Workspace\FundaProgrCsharp\11 Propiedades\Propiedades\obj\Debug\Propiedades.pdb
+C:\workspace\POOcsharp\01 Propiedades\Propiedades\bin\Debug\Propiedades.exe.config
+C:\workspace\POOcsharp\01 Propiedades\Propiedades\bin\Debug\Propiedades.exe
+C:\workspace\POOcsharp\01 Propiedades\Propiedades\bin\Debug\Propiedades.pdb
+C:\workspace\POOcsharp\01 Propiedades\Propiedades\obj\Debug\Propiedades.csproj.AssemblyReference.cache
+C:\workspace\POOcsharp\01 Propiedades\Propiedades\obj\Debug\Propiedades.csproj.CoreCompileInputs.cache
+C:\workspace\POOcsharp\01 Propiedades\Propiedades\obj\Debug\Propiedades.exe
+C:\workspace\POOcsharp\01 Propiedades\Propiedades\obj\Debug\Propiedades.pdb
