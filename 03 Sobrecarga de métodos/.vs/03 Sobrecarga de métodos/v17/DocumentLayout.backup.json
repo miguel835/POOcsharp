@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\workspace\\POOcsharp\\03 Sobrecarga de m\u00E9todos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{602A5A52-3C65-465B-9505-5FE53E49688F}|03 Sobrecarga de m\u00E9todos\\03 Sobrecarga de m\u00E9todos.csproj|c:\\workspace\\poocsharp\\03 sobrecarga de m\u00E9todos\\03 sobrecarga de m\u00E9todos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{602A5A52-3C65-465B-9505-5FE53E49688F}|03 Sobrecarga de m\u00E9todos\\03 Sobrecarga de m\u00E9todos.csproj|solutionrelative:03 sobrecarga de m\u00E9todos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\POOcsharp\\03 Sobrecarga de m\u00E9todos\\03 Sobrecarga de m\u00E9todos\\Program.cs",
+              "RelativeDocumentMoniker": "03 Sobrecarga de m\u00E9todos\\Program.cs",
+              "ToolTip": "C:\\workspace\\POOcsharp\\03 Sobrecarga de m\u00E9todos\\03 Sobrecarga de m\u00E9todos\\Program.cs",
+              "RelativeToolTip": "03 Sobrecarga de m\u00E9todos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T21:15:42.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

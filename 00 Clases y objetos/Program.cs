@@ -43,6 +43,7 @@ namespace Clases_y_objetos
     //Clase Persona 
     public class Persona
     {
+        //Atributos
         string name;
         int ago;
         //Creación de un constructor 

@@ -1,0 +1,7 @@
+C:\workspace\POOcsharp\02 Herencia\02 Herencia\bin\Debug\02 Herencia.exe.config
+C:\workspace\POOcsharp\02 Herencia\02 Herencia\bin\Debug\02 Herencia.exe
+C:\workspace\POOcsharp\02 Herencia\02 Herencia\bin\Debug\02 Herencia.pdb
+C:\workspace\POOcsharp\02 Herencia\02 Herencia\obj\Debug\02 Herencia.csproj.AssemblyReference.cache
+C:\workspace\POOcsharp\02 Herencia\02 Herencia\obj\Debug\02 Herencia.csproj.CoreCompileInputs.cache
+C:\workspace\POOcsharp\02 Herencia\02 Herencia\obj\Debug\02 Herencia.exe
+C:\workspace\POOcsharp\02 Herencia\02 Herencia\obj\Debug\02 Herencia.pdb
