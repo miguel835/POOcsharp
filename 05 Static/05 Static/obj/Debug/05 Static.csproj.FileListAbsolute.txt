@@ -1,0 +1,7 @@
+C:\workspace\POOcsharp\05 Static\05 Static\bin\Debug\05 Static.exe.config
+C:\workspace\POOcsharp\05 Static\05 Static\bin\Debug\05 Static.exe
+C:\workspace\POOcsharp\05 Static\05 Static\bin\Debug\05 Static.pdb
+C:\workspace\POOcsharp\05 Static\05 Static\obj\Debug\05 Static.csproj.AssemblyReference.cache
+C:\workspace\POOcsharp\05 Static\05 Static\obj\Debug\05 Static.csproj.CoreCompileInputs.cache
+C:\workspace\POOcsharp\05 Static\05 Static\obj\Debug\05 Static.exe
+C:\workspace\POOcsharp\05 Static\05 Static\obj\Debug\05 Static.pdb
