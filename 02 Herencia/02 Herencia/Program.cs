@@ -60,6 +60,7 @@ namespace _02_Herencia
 
         //Atributos
         private string _speciality;
+        //La clase doctor vendria a ser una clase hija que hereda de la clase base  o tambien llama clase padre
         public Doctor(string name, int age, string speciality) : base(name, age)
         {
             //Los parametros en el constructor son los que reciben y luego de recibir se los va a enviar 

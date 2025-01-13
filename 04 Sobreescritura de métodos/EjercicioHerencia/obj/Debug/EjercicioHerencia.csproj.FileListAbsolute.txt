@@ -1,0 +1,8 @@
+C:\Users\TICS\Desktop\EjercicioHerencia\EjercicioHerencia\bin\Debug\EjercicioHerencia.exe.config
+C:\Users\TICS\Desktop\EjercicioHerencia\EjercicioHerencia\bin\Debug\EjercicioHerencia.exe
+C:\Users\TICS\Desktop\EjercicioHerencia\EjercicioHerencia\bin\Debug\EjercicioHerencia.pdb
+C:\Users\TICS\Desktop\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.csproj.AssemblyReference.cache
+C:\Users\TICS\Desktop\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\TICS\Desktop\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.csproj.CoreCompileInputs.cache
+C:\Users\TICS\Desktop\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.exe
+C:\Users\TICS\Desktop\EjercicioHerencia\EjercicioHerencia\obj\Debug\EjercicioHerencia.pdb
