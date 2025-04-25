@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\07 Generics\07 Generics\bin\Debug\07 Generics.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\07 Generics\07 Generics\bin\Debug\07 Generics.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\07 Generics\07 Generics\bin\Debug\07 Generics.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\07 Generics\07 Generics\obj\Debug\07 Generics.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\07 Generics\07 Generics\obj\Debug\07 Generics.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\07 Generics\07 Generics\obj\Debug\07 Generics.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\07 Generics\07 Generics\obj\Debug\07 Generics.pdb

@@ -1,0 +1,10 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\bin\Debug\09 Serialización de objetos (JSON).exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\bin\Debug\09 Serialización de objetos (JSON).exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\bin\Debug\09 Serialización de objetos (JSON).pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\obj\Debug\09 Serialización de objetos (JSON).csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\obj\Debug\09 Serialización de objetos (JSON).csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\obj\Debug\09 Seria.B04B125A.Up2Date
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\obj\Debug\09 Serialización de objetos (JSON).exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\09 Serialización de objetos (JSON)\09 Serialización de objetos (JSON)\obj\Debug\09 Serialización de objetos (JSON).pdb
