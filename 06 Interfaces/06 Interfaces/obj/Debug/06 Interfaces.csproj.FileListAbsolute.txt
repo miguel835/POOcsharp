@@ -1,0 +1,7 @@
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\06 Interfaces\06 Interfaces\bin\Debug\06 Interfaces.exe.config
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\06 Interfaces\06 Interfaces\bin\Debug\06 Interfaces.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\06 Interfaces\06 Interfaces\bin\Debug\06 Interfaces.pdb
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\06 Interfaces\06 Interfaces\obj\Debug\06 Interfaces.csproj.AssemblyReference.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\06 Interfaces\06 Interfaces\obj\Debug\06 Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\06 Interfaces\06 Interfaces\obj\Debug\06 Interfaces.exe
+C:\Users\MIGUEL DIAZ\Documents\workspace\POOcsharp\06 Interfaces\06 Interfaces\obj\Debug\06 Interfaces.pdb
