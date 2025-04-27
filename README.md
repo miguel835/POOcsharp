@@ -1,7 +1,7 @@
 # Guía de programación orientada a objetos en C# 12 y .Net Framework 4.8.1
 
 En este repositorio se encuentra temas de programación orientada a objetos aplicado en el lenguaje de 
-programación C# versión 12 y el entorno .net Framework 4.8.1, con lo cual se pretende que cualquier
+programación C# versión 12 y el entorno .Net Framework 4.8.1, con lo cual se pretende que cualquier
 persona pueda aprender este paradigma de programación.
 
 Se recomienda que la persona que revise y estudie los temas de este repositorio ya tenga conocimientos 
